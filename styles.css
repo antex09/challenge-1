@@ -236,6 +236,11 @@ footer {
     opacity: 0.8;
 }
 
+.gmail:hover {
+    color: var(--Font);
+    opacity: 0.6;
+}
+
 @media(max-width: 1250px){
     main{
         display: flex;
